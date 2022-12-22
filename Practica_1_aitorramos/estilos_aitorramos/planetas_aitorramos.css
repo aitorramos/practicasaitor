@@ -1,0 +1,29 @@
+#vertical{
+    border: 1px solid black;
+    width: 30%;
+    background-color: lightsalmon;
+}
+#horizontal{
+    border: 1px solid black;
+    width: 60%;
+    background-color: lightsalmon;
+}
+th,td{
+    border: 1px solid black;
+    text-align: left;
+}
+#nombre{
+    background-color: lightpink;
+}
+.terrestre{
+    background-color: aquamarine;
+    color: brown;
+}
+.joviano{
+    background-color: burlywood;
+    color: blue;
+}
+.enano{
+    background-color: khaki;
+    color: darkgreen;
+}

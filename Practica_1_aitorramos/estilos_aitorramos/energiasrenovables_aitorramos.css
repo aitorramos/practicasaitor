@@ -1,0 +1,28 @@
+table{
+    border: 1px solid black;
+    background-color: white;
+    width: 30%;
+}
+th {
+    border: 1px solid black;
+    color: blue;
+    background-color: khaki;
+}
+td{
+    border: 1px solid black;
+}
+#solar{
+    width: 250px;
+    height: 160px;
+}
+#eolica{
+    width: 250px;
+    height: 166px;
+}
+#hidraulica{
+    width: 250px;
+    height: 166px;
+}
+#pie{
+    background-color: darkgrey;
+}

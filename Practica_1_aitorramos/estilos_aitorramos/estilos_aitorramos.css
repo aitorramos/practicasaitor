@@ -1,0 +1,30 @@
+/*elementos del indice*/
+.paginasimpares{
+    color: red;
+    font-style: italic;
+    font-weight:bold ;
+}
+#imgplanetas{
+    width:360px;
+    height:202px
+}
+#subtitulos{
+    width: 360px;
+    height: 240px;
+}
+/*elementos comunes de las paginas web*/
+body {
+    background-color: lavender;
+}
+#encabezado {
+    color: fuchsia;
+}
+#return{
+    color: tomato;
+    float:right;
+}
+/*estilos de recetas*/
+#recetas{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+        text-size-adjust: 13px;
+} 
